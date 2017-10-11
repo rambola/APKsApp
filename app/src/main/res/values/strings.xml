@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APKsAPP</string>
+    <string name="appsApks">AppsApks</string>
+    <string name="saveAPKs">Save APKs</string>
+    <string name="shareAPKs">Share APKs</string>
+    <string name="saveAndShareAPKs">Save and Share APKs</string>
+    <string name="storagePermissionToast">Storage permission allows us to do store apks. Please allow this permission in App Settings.</string>
+</resources>
